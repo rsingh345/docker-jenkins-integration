@@ -1,0 +1,13 @@
+package com.dedalus.spring.apis;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class DockerJenkinsIntegrationApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
